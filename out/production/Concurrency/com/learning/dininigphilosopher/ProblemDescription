@@ -1,0 +1,6 @@
+- It was formulated by Dijkstra in 1965
+- 5 philosophers are present at a table  + 5 forks / chopsticks
+- They can either eat or think
+- 5 philosophers can eat when they both left and right chopsticks
+- A chopstick can be hold by one philosopher at any given time
+- The problem: How to create a concurrent algorithm such that no philosopher will starve
